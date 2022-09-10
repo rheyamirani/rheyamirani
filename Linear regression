@@ -1,0 +1,16 @@
+What does the model achieve?
+- Derives a linear correlation between Blood pressure and Age for the given set of patients (young-middle aged).
+
+How should metrics be interpreted?
+- Slope (its intercept) is the relationship between Blood pressure and Age for the given set of patients (young-middle aged).
+
+What are appropriate use cases?
+- This graph can be used to check the correlation between Blood pressure and Age with the expectation that the relationship is linear
+
+What are caveats/biases/concerns to its usage?
+- The sample size of patients is just six which is very small. More observations need to be made to accurately predict its use.
+- There might be cases where patients in the age group of 25-50 show low blood pressure reading instead of high.
+- Also old aged patients and patients below 25 years of need to be considered for this study to make good use of it.
+
+How to interpret this specific result and advising action/next steps
+- Blood pressure is heavily correlated with Age. There is a need to gather more data to ensure that the relationship is linear.
